@@ -1,0 +1,7 @@
+.galeria {
+    display: flex;
+    justify-content: center;
+}
+.text, .otras-fotos {
+    margin: 2rem auto;
+}
